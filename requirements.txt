@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+lightgbm
+xgboost
+catboost
+tensorflow
+tensorflow-gpu
+keras
+torch
+pandas-profiling
+tqdm

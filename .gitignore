@@ -1,0 +1,7 @@
+venv
+*.csv
+*.zip
+*.xyz
+.ipynb_checkpoints
+__pycache__
+catboost_info
