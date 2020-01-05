@@ -6,9 +6,9 @@ sklearn
 lightgbm
 xgboost
 catboost
-tensorflow
-tensorflow-gpu
-keras
+tensorflow==1.14.0
+tensorflow-gpu==1.14.0
+keras==2.2.5
 torch
 pandas-profiling
 tqdm
