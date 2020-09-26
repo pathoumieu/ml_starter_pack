@@ -6,7 +6,7 @@ sklearn
 lightgbm
 xgboost
 catboost
-tensorflow==1.14.0
+tensorflow==1.15.4
 tensorflow-gpu==1.14.0
 keras==2.2.5
 torch
